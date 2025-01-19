@@ -3,15 +3,15 @@
 moveSpeed = 2;
 xSpeed = 0;
 ySpeed = 0;
-gunType = 4; // max type 3 for now
+gunType = 3; // max type 3 for now
 // Cooldown by FPS, might need to change later
 gunCooldown = 0.0;
-pistolCooldown = 1 * 60.0;
-shotgunCooldown = 1.5 * 60;
-subMachineCooldown = 0.1 * 60.0;
-assualtRifleCooldown = 0.25 * 60.0;
-sniperCooldown = 2.0 * 60.0;
-newWeaponChange = false;
+pistolCooldown = 1 * 30.0;
+shotgunCooldown = 1.5 * 30;
+subMachineCooldown = 0.1 * 30.0;
+assualtRifleCooldown = 0.25 * 30.0;
+sniperCooldown = 2.0 * 30.0;
+newWeaponChange = true;
 
 image_speed = 0;
 

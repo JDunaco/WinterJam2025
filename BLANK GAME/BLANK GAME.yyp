@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"IndependentGUN",
+  "%Name":"BLANK GAME",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,24 +32,11 @@
   "MetaData":{
     "IDEVersion":"2024.11.0.179",
   },
-  "name":"IndependentGUN",
-  "resources":[
-    {"id":{"name":"oAssualtBullet","path":"objects/oAssualtBullet/oAssualtBullet.yy",},},
-    {"id":{"name":"oPistolBullet","path":"objects/oPistolBullet/oPistolBullet.yy",},},
-    {"id":{"name":"oPLayer","path":"objects/oPLayer/oPLayer.yy",},},
-    {"id":{"name":"oShotgunBullet","path":"objects/oShotgunBullet/oShotgunBullet.yy",},},
-    {"id":{"name":"oSniperBullet","path":"objects/oSniperBullet/oSniperBullet.yy",},},
-    {"id":{"name":"oSubMachineBullet","path":"objects/oSubMachineBullet/oSubMachineBullet.yy",},},
-    {"id":{"name":"test","path":"objects/test/test.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_player1","path":"sprites/spr_player1/spr_player1.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-  ],
+  "name":"BLANK GAME",
+  "resources":[],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
+  "RoomOrderNodes":[],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
