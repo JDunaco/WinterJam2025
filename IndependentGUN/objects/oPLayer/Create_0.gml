@@ -3,7 +3,7 @@
 moveSpeed = 2;
 xSpeed = 0;
 ySpeed = 0;
-gunType = 3; // max type 3 for now
+gunType = 2; // max type 3 for now
 // Cooldown by FPS, might need to change later
 gunCooldown = 0.0;
 pistolCooldown = 1 * 30.0;
