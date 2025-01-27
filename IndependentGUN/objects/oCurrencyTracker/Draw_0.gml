@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// set text for currency
 // You can write your code in this editor
 
 draw_set_color(c_white);

@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"test",
-  "eventList":[],
+  "%Name":"oShopButton3",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"test",
+  "name":"oShopButton3",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"SelectButton",
+    "path":"sprites/SelectButton/SelectButton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

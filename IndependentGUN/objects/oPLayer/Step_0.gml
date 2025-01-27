@@ -60,6 +60,8 @@ if (mouse_check_button(mb_left))
 	gunCooldown--;
 }
 
+
+
 if (newWeaponChange == true)
 {
 	image_index = gunType;
